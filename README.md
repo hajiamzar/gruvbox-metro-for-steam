@@ -1,6 +1,6 @@
 # Gruvbox Metro for Steam
 
-# Installation
+## Installation
 
 ![gambar](gambar.png)
 
@@ -10,7 +10,7 @@ Copy the metro-for-steam-6.0 folder to your steam skins directory.
 
 Windows: C:\Program Files (x86)\Steam\skins\
 
-# Donate 
+## Donate 
 
 https://hajiamzar.com/sumbangan/
 
